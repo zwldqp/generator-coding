@@ -14,4 +14,3 @@ generator-coding  javascript 练习算法的脚手架
 * 脚手架目录参考本项目 app/templates/
 * 欢迎提 issue
 
-* __支付宝招前端 or 安卓，校招 or 社招。社招 P6 起，欢迎简历来砸。__
