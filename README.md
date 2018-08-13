@@ -1,5 +1,5 @@
 # generator-coding
-generator-coding  javascript 练习算法的脚手架
+generator-coding  javascript 练习算法的脚手架，实现控制台输入输出
 
 #### 使用方式
 
