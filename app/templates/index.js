@@ -1,4 +1,4 @@
-import { read as readline, print } from './dist/io';
+import { read as readline, print, rd } from './dist/io';
 let line;
 
 /**
@@ -12,10 +12,11 @@ let line;
   (async function main() {
     // 你的代码
 
-    while( line = await readline() ){
-      var lines = line.split(' ');
-      var a = parseInt(lines[0]);
-      var b = parseInt(lines[1]);
-      print( a + b );
-    }
+    // while( line = await readline() ){
+    //   var lines = line.split(' ');
+    //   var a = parseInt(lines[0]);
+    //   var b = parseInt(lines[1]);
+    //   print( a + b );
+    // }
+    console.log(rd([1,2,3,4,2,1,3,5]))
   })();

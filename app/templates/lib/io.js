@@ -48,3 +48,10 @@ export const print = (msg) => {
   rl.close();
   options.ioFlag = false;
 }
+
+export const dr = (arr) => {
+  res = arr.filter(((item,index,self)=>{
+      return self.indexOf(item) === index
+  }))
+  return res
+} 
