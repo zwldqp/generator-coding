@@ -10,3 +10,5 @@
 - 启动方式: 
   - `` npm install ``
   - `` npm run start ``
+- API:
+  - dr 数组去重 dr(Array)
